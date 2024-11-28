@@ -16,7 +16,7 @@ To use this repository and run the notebooks, you will need to have Python and t
 
 Installations
 To get started with this repository, clone it to your local machine:
-- code: git clone https://github.com/Lazycodes/CDC_2017_Immunization_Data_Analysis.git
+- code: git clone https://github.com/AsuquoAA/CDC_2017_Immunization_Data_Analysis.git
 
 Navigating to directory
 - code: cd CDC_2017_Immunization_Data_Analysis
@@ -26,7 +26,7 @@ Navigating to directory
 ## Dataset 
 
 The dataset used for this project is:
-1. <a href="https://github.com/Lazycodes/CDC_2017_Immunization_Data_Analysis/blob/main/NISPUF17.csv">NISPUF17.csv</a>
+1. <a href="https://github.com/AsuquoAA/CDC_2017_Immunization_Data_Analysis/blob/main/NISPUF17.csv">NISPUF17.csv</a>
     Source: CDC (Centers for Disease Control and Prevention)
     Key Features:
     - EDUC1: Maternal education level.
@@ -35,9 +35,9 @@ The dataset used for this project is:
     - SEX: Sex of the child.
     - P_NUMVRC: Number of varicella (chickenpox) vaccine doses received.
     - HAD_CPOX: History of chickenpox infection.
-    Additional documentation for variable mappings is provided in <a href="https://github.com/Lazycodes/CDC_2017_Immunization_Data_Analysis/blob/main/NIS-PUF17-DUG.pdf">NISPUF17.pdf</a>.
-2. <a href="https://github.com/Lazycodes/CDC_2017_Immunization_Data_Analysis/blob/main/census.csv">Census.csv</a>
-3. <a href="https://github.com/Lazycodes/CDC_2017_Immunization_Data_Analysis/blob/main/olympics.csv">Olympics.csv</a>
+    Additional documentation for variable mappings is provided in <a href="https://github.com/AsuquoAA/CDC_2017_Immunization_Data_Analysis/blob/main/NIS-PUF17-DUG.pdf">NISPUF17.pdf</a>.
+2. <a href="https://github.com/AsuquoAA/CDC_2017_Immunization_Data_Analysis/blob/main/census.csv">Census.csv</a>
+3. <a href="https://github.com/AsuquoAA/CDC_2017_Immunization_Data_Analysis/blob/main/olympics.csv">Olympics.csv</a>
    
 ---
 
